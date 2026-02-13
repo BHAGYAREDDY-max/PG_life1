@@ -6,8 +6,6 @@ Welcome to PGlife, your one-stop solution for student housing management! Our we
 Step 1: Watch Our Comprehensive Setup Video
 For a detailed demonstration on how to set up the entire project, please watch our full video tutorial on our YouTube channel. In this video, we provide a step-by-step guide on how to get started.
 
-Video link: https://youtu.be/A04U_LK6IkU?si=x9UDf096ZkvunBRo
-
 Step 2: Get the Essential Components
 
 To get started, you'll need two crucial components:
