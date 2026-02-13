@@ -1,20 +1,27 @@
 Project:PG Life Accommodation finder.
 
+Welcome to PG Life – Accommodation Finder, a smart and user-friendly web application designed to help students and working professionals find suitable Paying Guest accommodations easily. This system provides complete information about available PG rooms, including rent details, facilities, location, and images. The website is fully functional and structured with both frontend and backend technologies. It can be executed on a local system or deployed on a web server for real-time usage.
 
-Welcome to PGlife, your one-stop solution for student housing management! Our website is fully functional and ready for deployment on your web server. Please follow the instructions below for a seamless experience:
+Step 1: Project Overview and Environment Setup
 
-Step 1: Watch Our Comprehensive Setup Video
-For a detailed demonstration on how to set up the entire project, please watch our full video tutorial on our YouTube channel. In this video, we provide a step-by-step guide on how to get started.
+Before running the project, make sure your system is properly configured. Install Node.js to manage server-side operations and MongoDB to handle the database. This project follows a client-server architecture where the frontend handles user interaction and the backend manages data processing and database communication. Proper installation of required software ensures smooth execution without errors.
 
-Step 2: Get the Essential Components
+Step 2: System Architecture
 
-To get started, you'll need two crucial components:
+The project is divided into two main parts:
 
-a) GitHub Repository
-We've provided a GitHub repository that contains all the code and files necessary for your PGlife project. You can find it right here on this page.
+Frontend: Responsible for user interface, design, and interaction.
 
-b) Database Management System (DBMS)
-Our Database Management System is hosted separately on Google Drive. To access the database file, please refer to the link in the YouTube video description.
+Backend: Handles server logic, API requests, authentication, and database connection.
+
+The frontend sends requests to the backend, and the backend fetches or stores data in MongoDB. This structured flow ensures organized data management and better performance.
+
+Step 3: Database Configuration
+
+MongoDB is used as the primary database system to store user details, PG listings, pricing information, and facility data. Create a database locally and configure the connection string in the backend configuration file. Proper database setup is important for storing and retrieving data correctly.
 
 
-Please feel free to let me know if you have any further revisions or specific changes you'd like to make.
+
+
+
+
